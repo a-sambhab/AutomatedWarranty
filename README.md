@@ -20,16 +20,12 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/a-sambhab/nft-warranty-market">
-    <img src="https://res.cloudinary.com/dgy8ybeoy/image/upload/v1659287496/favicon_rjjovn.ico" alt="Logo" width="80">
-  </a>
-
-  <h3 align="center">NFTDocket</h3>
+  
+  <h3 align="center">NFT Warranty</h3>
 
   <p align="center">
-    The official repository for the website of NFTDocket
+    The official repository for the website of NFT Warranty
     <br />
-    <a href="https://nftdocket.vercel.app/">View Live</a>
   </p>
 </p>
 
@@ -51,10 +47,7 @@
       </ul>
     </li>
     <li><a href="#features">Features</a></li>
-    <li><a href="#block-diagram">Block Diagram</a></li>
-    <li><a href="#screenshots">Screenshots</a></li>
       <li><a href="#future-scope">Future Scope</a></li>
-    <li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
 
@@ -176,15 +169,6 @@ In the case that the current time is greater than the Expiry time of any Product
 
 Once a warranty is activated by a owner in their dashboard the warranty also shows the history of all it's previous owner which helps in keeping track of the ownership of the product and sale as well.
 
-## Block Diagram
-
-<img src="https://res.cloudinary.com/dgy8ybeoy/image/upload/v1659308834/NFTDocket_aeca19.png" alt="Block Diagram" width="100%">
-
-## Screenshots
-
-<img src="https://res.cloudinary.com/dgy8ybeoy/image/upload/v1659309065/Screenshot_2022-08-01_044029_jrfsck.png" alt="Logo" width="100%">
-<img src="https://res.cloudinary.com/doybtqm8h/image/upload/v1659309329/Screenshot_2022-08-01_044226_lqbgml.png" alt="Logo" width="100%">
-
 ## Future Scope
 
 * We can implement this in a Mobile Application to further increase the accessibility and use cases multifolds.
@@ -194,23 +178,12 @@ Once a warranty is activated by a owner in their dashboard the warranty also sho
 * We can use the history tracking functionality to keep a track of sale which can be used in products like cars that frequently change hands.
 * As the marketplace is implemented we can also add the functionality of sending the NFT on the buyer’s mobile phone as a notification.
 
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/a-sambhab"><img src="https://avatars.githubusercontent.com/u/84642011?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sai Sambhab Chaini</b></sub></a><br /><a href="https://github.com/a-sambhab/NFTDocket/commits?author=a-sambhab" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/akashsahu006"><img src="https://avatars.githubusercontent.com/u/82517683?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akash Sahu</b></sub></a><br /><a href="https://github.com/a-sambhab/NFTDocket/commits?author=akashsahu006" title="Code">💻</a></td>
-  </tr>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
